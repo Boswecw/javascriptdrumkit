@@ -1,9 +1,8 @@
 html {
   font-size: 10aaaapx;
-  background: url('./Drummerview.jpg') bottom center;
+  background: url('./assets/Drummerview.jpg') bottom center;
   height: 95%;
-  background-repeat: no-repeat;
-  /* Optional: prevents tiling */
+  background-repeat: no-repeat;  /* Optional: prevents tiling */
   background-size: cover;
 }
 
